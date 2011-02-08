@@ -1,0 +1,8 @@
+DESCRIPTION
+
+Network port redirector. Linux/C, 3 versions: threads, AIO, select/poll.
+
+
+DETAIL
+
+Trial project for Parallels/SWSoft summer school, 2007 (or 2008?).
